@@ -50,3 +50,11 @@ IntelliJ IDEA + git + github:
 4.新建版本库/项目;上传项目初始化文件
 
 5.VCS - Checkout from Version Control - GitHub Click Clone [可更改项目名]
+
+
+
+Mybatis通用分页插件
+https://github.com/pagehelper/Mybatis-PageHelper
+
+
+
