@@ -56,5 +56,6 @@ IntelliJ IDEA + git + github:
 Mybatis通用分页插件
 https://github.com/pagehelper/Mybatis-PageHelper
 
-
+tips:
+miss db + images + easyui folder
 
